@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=The+Last+Minute+Life-saver%20&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=The+Last-Minute+Life+saver%20&fontSize=70" />
 </p>
 # 🚀 The Last Minute Life Saver
 
