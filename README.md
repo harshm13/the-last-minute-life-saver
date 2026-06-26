@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="assets/banner.png" alt="The Last Minute Life Saver Banner" width="100%">
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=The Last+MinuteLife-saver%20&fontSize=70" />
+</p>
 # 🚀 The Last Minute Life Saver
 
 ### AI-Powered Productivity & Task Management Assistant
