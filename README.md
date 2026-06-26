@@ -87,11 +87,3 @@ npm run dev
 Made with ❤️ by **Harsh Mehta**
 
 ⭐ Star this repository if you like the project!
-
-</div>
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
-![Railway](https://img.shields.io/badge/Deployment-Railway-black?logo=railway)
-![License](https://img.shields.io/badge/License-MIT-yellow)
