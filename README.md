@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=The+Last-Minute+Life+saver%20&fontSize=70" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=120&lines=The+Last-Minute+Life+Saver;AI-Powered+Productivity;Beat+Procrastination!" alt="Typing SVG" />
+  </a>
 </p>
 
 ### AI-Powered Productivity & Task Management Assistant
