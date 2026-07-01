@@ -35,7 +35,6 @@ function getGeminiClient() {
 // We can use a standard JSON-based file storage or simple session-based mock storage if needed,
 // but for the sake of simplicity and robustness, local persistence is fully managed by client localStorage,
 // while the server acts as the AI processing proxy, keeping API key fully hidden.
-
 // 1. Prioritize a Task
 app.post("/api/prioritize", async (req, res) => {
   try {
@@ -506,9 +505,9 @@ app.post("/api/coach/chat", async (req, res) => {
     // If the user expects speaking voice support, we generate the TTS audio stream
     if (speechEnabled) {
       try {
-        console.log(`Generating TTS with model gemini-3.1-flash-tts-preview and voice ${voiceName || 'Kore'}`);
+        console.log(`Generating TTS with model gemini-2.5-flash-tts-preview and voice ${voiceName || 'Kore'}`);
         const ttsResponse = await client.models.generateContent({
-          model: "gemini-3.1-flash-tts-preview",
+          model: "gemini-2.5-flash-tts-preview",
           contents: [{ parts: [{ text: botText }] }],
           config: {
             responseModalities: ["AUDIO"],
